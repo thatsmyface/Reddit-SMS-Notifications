@@ -9,8 +9,8 @@
 	1. (Ignore my stupid comments)
 1. Configure any other stuff you want in `index.js`
 1. Open a console to the directory and run:
-	*. `npm install snoowrap`
-	*. `npm install aws-sdk`
+	1. `npm install snoowrap`
+	1. `npm install aws-sdk`
 	1. *If you already have either of these don't run that one*
 1. `node index.js`
 1. Leave running until you don't want it anymore.
